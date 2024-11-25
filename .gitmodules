@@ -1,0 +1,3 @@
+[submodule "Connected_components_PyTorch"]
+	path = Connected_components_PyTorch
+	url = https://github.com/zsef123/Connected_components_PyTorch
